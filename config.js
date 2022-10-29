@@ -67,14 +67,14 @@ global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62XXXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6283111136642'
+global.nomorown = '6285641142178'
+global.namebot = 'SaxiaBotz-Md'
+global.nameown = 'San.id'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'San.id' // nama github lu
+global.linkgithub = 'github.com/Kasanstore7' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 SaxiaBotz-Md 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SaxiaBotz-Md ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ SaxiaBotz-Md '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By San.id`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 SaxiaBotz-Md  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
