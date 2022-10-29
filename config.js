@@ -15,7 +15,7 @@
 // • ImYanXiao
 // • WH MODS DEV
 // • Xtreshe
-// • Dll
+// • Para donasi
 
 //[!] Jangan Lupa Ganti Ownernya
 
@@ -58,11 +58,11 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
+global.pdana = 'CHAT OWNER' //dana
+global.povo = '085641142178' //ovo
+global.pgopay = '082110711736' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
+global.ppulsa = '085641142178' //indosat
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/mrw4h1d'
 
