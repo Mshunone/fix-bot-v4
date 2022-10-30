@@ -33,7 +33,7 @@ const listMessage = {
   text: ' ',
   footer: botdate,
   title: `*${htki} OPTIONS ${htka}*`,
-  buttonText: "Click Here!",
+  buttonText: "Pencet Kak",
   sections
 }
 
@@ -243,7 +243,7 @@ const listMessage = {
   }
   conn.sendButton(m.chat, `*${htki} OPTIONS ${htka}*
 🗂️ *Type:* ${type} 
-📊 *Status:* Succes ✅
+📊 *Status:* Sukses ✅
 🎚️ *Options:* ${isEnable ? 'Enable' : 'Disable'}
 📣 *For:* ${isAll ? 'This Bot' : isUser ? '' : 'This Chats'}
 `,wm, null, [[`${isEnable ? '✖️ Disable' : '✔️ Enable'}`, `${isEnable ? `.off ${type}` : `.on ${type}`}`], ['🎀 Menu', '.menu']],m)
